@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+@charset "utf-8";
+.monserroto {
+    font-family: "Montserrat SemiBold";
+}
+.jesusto {
+    font-family: "Noto Sans";
+}
+.color1 {
+    background-color: #F79FBA;
+    color: #FFFFFF;
+}
+.invertido {
+    background-color: #FFFFFF;
+    color: #F79FBA;
+}
+.monserrat {
+    font-family: "Montserrat SemiBold";
+}
+=======
+@charset "utf-8";
+.monserroto {
+    font-family: "Montserrat SemiBold";
+}
+.jesusto {
+    font-family: "Noto Sans";
+}
+.color1 {
+    background-color: #F79FBA;
+    color: #FFFFFF;
+}
+.invertido {
+    background-color: #FFFFFF;
+    color: #F79FBA;
+}
+.monserrat {
+    font-family: "Montserrat SemiBold";
+}
+>>>>>>> 34492f7 (first commit)
